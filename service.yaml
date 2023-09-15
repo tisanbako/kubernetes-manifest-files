@@ -1,0 +1,14 @@
+--- 
+apiVersion:
+kind: service
+metadata:
+  name: 
+spec:
+  selector:
+    app: 
+  type:   
+  ports:
+    - protocol: 
+      port: 
+      targetPort: 
+      nodePort: 
