@@ -23,7 +23,7 @@ spec:
 
 --- 
 apiVersion:
-kind: 
+kind: service
 metadata:
   name: 
 spec:

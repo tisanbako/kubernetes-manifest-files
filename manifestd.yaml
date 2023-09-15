@@ -30,7 +30,7 @@ spec:
   selector:
     app: 
   ports:
-    - protocol: TCP
+    - protocol: 
       port: 
       targetPort: 
 ...
